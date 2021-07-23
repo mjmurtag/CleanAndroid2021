@@ -5,3 +5,5 @@
 
 `./gradlew spotlessCheck`
 `./gradlew spotlessApply`
+
+[https://github.com/diffplug/spotless](https://github.com/diffplug/spotless)
