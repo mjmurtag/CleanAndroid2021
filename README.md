@@ -3,5 +3,5 @@
 
 ## Spotless Lint
 
-./gradlew spotlessCheck
-./gradlew spotlessApply
+`./gradlew spotlessCheck`
+`./gradlew spotlessApply`
