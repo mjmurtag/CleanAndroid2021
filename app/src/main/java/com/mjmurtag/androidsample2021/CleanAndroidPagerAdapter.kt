@@ -4,7 +4,7 @@ import androidx.fragment.app.Fragment
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.mjmurtag.androidsample2021.ui.main.MainFragment
 
-const val NOTES_PAGE_INDEX = 0;
+const val NOTES_PAGE_INDEX = 0
 
 class CleanAndroidPagerAdapter(fragment: Fragment) : FragmentStateAdapter(fragment) {
     /**

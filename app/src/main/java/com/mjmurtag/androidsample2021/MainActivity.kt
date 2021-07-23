@@ -1,10 +1,9 @@
 package com.mjmurtag.androidsample2021
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil.setContentView
 import com.mjmurtag.androidsample2021.databinding.MainActivityBinding
-import com.mjmurtag.androidsample2021.ui.main.MainFragment
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
