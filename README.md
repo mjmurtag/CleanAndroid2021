@@ -1,8 +1,8 @@
-[![Android CI](https://github.com/mjmurtag/CleanAndroid2021/actions/workflows/android.yml/badge.svg?branch=main)](https://github.com/mjmurtag/CleanAndroid2021/actions/workflows/android.yml)
 # CleanAndroid2021
  An app to showcase Android best practices in 2021.
 
 ## Spotless Kotlin Code Style Linting is enforced on this repo
+[![Android CI](https://github.com/mjmurtag/CleanAndroid2021/actions/workflows/android.yml/badge.svg?branch=main)](https://github.com/mjmurtag/CleanAndroid2021/actions/workflows/android.yml)
 
 `./gradlew spotlessCheck`
 `./gradlew spotlessApply`
