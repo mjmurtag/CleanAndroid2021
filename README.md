@@ -1,3 +1,4 @@
+[![Android CI](https://github.com/mjmurtag/CleanAndroid2021/actions/workflows/android.yml/badge.svg?branch=main)](https://github.com/mjmurtag/CleanAndroid2021/actions/workflows/android.yml)
 # CleanAndroid2021
  An app to showcase Android best practices in 2021.
 
