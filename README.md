@@ -10,7 +10,6 @@
 [https://github.com/diffplug/spotless](https://github.com/diffplug/spotless)
 
 ## Libraries Used
-Libraries Used
 --------------
 * [Foundation][0] - Components for core system capabilities, Kotlin extensions and support for
   multidex and automated testing.
